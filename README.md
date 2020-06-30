@@ -1,2 +1,1 @@
-# lint-test
-lint-test
+node_modulesは省いています。
